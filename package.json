@@ -1,0 +1,25 @@
+{
+  "name": "fipassport-google",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "flatiron": "~0.3.8",
+    "flatiron-passport": "0.0.9",
+    "passport-google": "~0.3.0",
+    "union": "~0.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joeybaker/fipassport-google.git"
+  },
+  "author": "Joey Baker",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/joeybaker/fipassport-google/issues"
+  }
+}
